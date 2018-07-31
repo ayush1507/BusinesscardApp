@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business card App</string>
+        <string name="label">Wafflez</string>
+        <string name="add_details1" >Plot no. - 145,</string>
+        <string name="add_details2" >Devendra Nagar, Raipur(492001)</string>
+        <string name="add_details3" >Chattisgarh.</string>
+        <string name="wafflez">Wafflez - The Belgian Concept</string>
+        <string name="contact">9856314055</string>
+
+
+</resources>
